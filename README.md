@@ -1,3 +1,5 @@
+# ** ONLY WORK ON DEBIAN BASED LINUX DISTRO **
+
 # Wallpaper-generator.
 
 ## Using https://wallhaven.cc/ API.
